@@ -1,0 +1,367 @@
+
+
+body {
+ margin: 0;
+ overflow: hidden;
+}
+
+.menu {
+ position: fixed;
+ inset: 0;
+ width: 100%;
+ height: 100%;
+}
+
+.menu img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.elegir {
+ position: fixed;
+ inset: 0;
+ width: 100%;
+ height: 100%;
+}
+
+.elegir img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.queespng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.queespng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.trampapng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.trampapng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.prebatallapng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.prebatallapng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.winpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.winpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.afterpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.afterpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.wfuerzapng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.wfuerzapng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.wastuciapng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.wastuciapng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.lagilpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.lagilpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.wfuerzapostpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.wfuerzapostpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.wastuciapostpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.wastuciapostpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+.lagilpostpng {
+ position: fixed;
+ inset: 0;
+ width: 100vw;
+ height: 100vh;
+}
+
+.lagilpostpng img {
+ display: block;
+ width: 100%;
+ height: 100%;
+ object-fit: contain;
+}
+
+h1 {
+ position: absolute;
+ top: 50px;
+ left: 80px;
+
+
+}
+
+
+#jugar {
+ position: absolute;
+ top: 43%;
+ left: 39%;
+ width: 22%;
+ height: 9%;
+ border: none;
+ cursor: pointer;
+}
+
+#quees {
+ position: absolute;
+ top: 55%;
+ left: 39%;
+ width: 22%;
+ height: 9%;
+ border: none;
+ cursor: pointer;
+}
+
+#trampa {
+ position: absolute;
+ top: 67%;
+ left: 39%;
+ width: 22%;
+ height: 9%;
+ border: none;
+ cursor: pointer;
+}
+
+#queesregresar {
+ position: absolute;
+ top: 87%;
+ left: 34%;
+ width: 32%;
+ height: 8%;
+ border: none;
+ cursor: pointer;
+}
+
+#tramparegresar {
+ position: absolute;
+ top: 4%;
+ left: 9%;
+ width: 6%;
+ height: 4%;
+ border: none;
+ cursor: pointer;
+}
+
+#prebatallacontinuar {
+ position: absolute;
+ top: 92%;
+ left: 44%;
+ width: 12%;
+ height: 7%;
+ border: none;
+ cursor: pointer;
+}
+
+#wincontinuar {
+ position: absolute;
+ top: 92%;
+ left: 44%;
+ width: 12%;
+ height: 7%;
+ border: none;
+ cursor: pointer;
+}
+
+#fuerzaboton {
+ position: absolute;
+ top: 55%;
+ left: 14%;
+ width: 22%;
+ height: 29%;
+ border: none;
+ cursor: pointer;
+}
+
+#astuciaboton {
+ position: absolute;
+ top: 55%;
+ left: 40%;
+ width: 20%;
+ height: 29%;
+ border: none;
+ cursor: pointer;
+}
+
+#agilidadboton {
+ position: absolute;
+ top: 55%;
+ left: 64%;
+ width: 21%;
+ height: 29%;
+ border: none;
+ cursor: pointer;
+}
+
+#wfuerzacontinuar {
+ position: absolute;
+ top: 92%;
+ left: 44%;
+ width: 12%;
+ height: 7%;
+ border: none;
+ cursor: pointer;
+}
+
+#wastuciacontinuar {
+ position: absolute;
+ top: 92%;
+ left: 44%;
+ width: 12%;
+ height: 7%;
+ border: none;
+ cursor: pointer;
+}
+
+#lagilcontinuar {
+ position: absolute;
+ top: 92%;
+ left: 44%;
+ width: 12%;
+ height: 7%;
+ border: none;
+ cursor: pointer;
+}
+
+#wfuerzapostcontinuar {
+ position: absolute;
+ top: 75%;
+ left: 40%;
+ width: 22%;
+ height: 10%;
+ border: none;
+ cursor: pointer;
+}
+
+#wastuciapostcontinuar {
+ position: absolute;
+ top: 75%;
+ left: 40%;
+ width: 22%;
+ height: 10%;
+ border: none;
+ cursor: pointer;
+}
+
+#lagilpostcontinuar {
+ position: absolute;
+ top: 75%;
+ left: 40%;
+ width: 22%;
+ height: 10%;
+ border: none;
+ cursor: pointer;
+}
+
+#aftermenu {
+ position: absolute;
+ top: 83%;
+ left: 40%;
+ width: 22%;
+ height: 10%;
+ border: none;
+ cursor: pointer;
+}
